@@ -8,6 +8,6 @@
 </ul>
 
 <h2>Me contacter :</h2>
-<p> Email : webxeltaxdev@gmail.com</p>
-<p> Site web : En production</p>
-<a href="https://discord.gg/VqEm6UmSXt"><img src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/></a>
+<p>Email : webxeltaxdev@gmail.com</p>
+<p>Site web : En production</p>
+<a href="https://discord.gg/VqEm6UmSXt"><img src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/></a><img src="https://img.icons8.com/color/16/000000/gmail--v1.png"/><img src="https://img.icons8.com/fluency/16/000000/web.png"/>
