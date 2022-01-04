@@ -9,7 +9,7 @@
 
 <h2>Me contacter :</h2>
 <p>**Email** : webxeltaxdev@gmail.com</p>
-<p>**Site web** : En production</p>
+**Site web** : En production
 <p>**Mon discord** : <a href="https://discord.gg/VqEm6UmSXt"><img src="https://img.icons8.com/fluency/24/000000/discord-new-logo.png"/></a></p>
 
 <h3 align="left">Langage maitriser :</h3>
