@@ -1,3 +1,4 @@
+<img src="https://zupimages.net/up/22/01/xi4i.png">
 <h1 align="center">💻 Xeltax_ 💻</h1>
 
 <h2 align="center">Souhaite devenir programmeur Web ou mobile</h2>
