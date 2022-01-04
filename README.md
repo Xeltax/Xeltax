@@ -6,6 +6,6 @@
 * Connaissances en HTML | CSS | PHP | LUA | SQL ...  
 
 <h2>Me contacter :</h2>
-<p><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>Email : webxeltaxdev@gmail.com</p>
-<img src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-web-web-hosting-kmg-design-outline-color-kmg-design.png"/> Site web : En production  
+<p><img src="https://img.icons8.com/color/16/000000/gmail--v1.png"/>Email : webxeltaxdev@gmail.com</p>
+<p><img src="https://img.icons8.com/fluency/16/000000/web.png"/> Site web : En production</p>
 <a href="https://discord.gg/VqEm6UmSXt">![discord](https://img.icons8.com/color/48/000000/discord-new-logo.png)</a>
