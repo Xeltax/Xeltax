@@ -3,7 +3,7 @@
 
 <h2 align="center">Souhaite devenir programmeur Web ou mobile</h2>
 <ul>
-<li> Étudiant à Sup Avenir St Ursulle 📚
+<li> Étudiant à Sup Avenir St Ursule 📚
 <li> Dev sur les jeux pour le plaisir 🎮
 <li> Connaissances en HTML | CSS | PHP | LUA | SQL ... 🧠
 </ul>
