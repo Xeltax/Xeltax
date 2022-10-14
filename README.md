@@ -3,7 +3,7 @@
 
 <h2 align="center">Souhaite devenir programmeur Web ou mobile</h2>
 <ul>
-<li> Étudiant à Sup Avenir St Ursule 📚
+<li> Étudiant à CaenSup St Ursule 📚
 <li> Dev sur les jeux pour le plaisir 🎮
 <li> Connaissances en HTML | CSS | PHP | LUA | SQL ... 🧠
 </ul>
@@ -11,7 +11,7 @@
 <h2>Me contacter :</h2>
 <p><strong>Email</strong> : </p>
 <a href="mailto:webxeltaxdev@gmail.com?subject=Bonjour%20je%20souhaite%20vous%20contacter&body=Hey,%20Xeltax%20"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
-<p><strong>Site web</strong> : </p><a href="https://github.com/Xeltax"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<p><strong>Site web</strong> : </p><a href="https://xeltax.github.io/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 <p><strong>Mon discord</strong> : </p><a href="https://discord.gg/VqEm6UmSXt"><img src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/></a></p>
 
 <h3 align="left">Langage maitriser :</h3>
