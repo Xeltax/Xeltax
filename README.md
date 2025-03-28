@@ -1,9 +1,9 @@
 <img src="https://zupimages.net/up/22/34/id9k.png">
 <h1 align="center">💻 Xeltax_ 💻</h1>
 
-<h2 align="center">Souhaite devenir programmeur Web ou mobile</h2>
+<h2 align="center">Développeur Full Stack</h2>
 <ul>
-<li> Étudiant à CaenSup St Ursule 📚
+<li> Étudiant à SUPINFO Caen 📚
 <li> Dev sur les jeux pour le plaisir 🎮
 <li> Connaissances en HTML | CSS | PHP | LUA | SQL ... 🧠
 </ul>
