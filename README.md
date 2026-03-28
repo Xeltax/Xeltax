@@ -58,6 +58,5 @@
   </p>
   
 <h3>Stats GitHub :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeltax&show_icons=true&locale=en" alt="xeltax" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeltax&layout=compact)](https://github.com/xeltax/github-readme-stats)
