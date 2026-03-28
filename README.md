@@ -15,7 +15,8 @@
   - Game dev FiveM (Lua)
 
    ### Stack technique
-                                                                                                                                                                                                                                               **Langages & Frameworks**
+
+**Langages & Frameworks**                                                                                                                                                                                                                       
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
